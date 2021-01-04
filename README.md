@@ -1,2 +1,2 @@
-# create-a-cartoon-character-C-programming-
+# create-a-cartoon-character
 a cartoon character using graphics in C programming
